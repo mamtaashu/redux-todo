@@ -1,0 +1,18 @@
+{
+  "user": [
+    {
+      "name": "a",
+      "email": "a@gmail.com",
+      "password": "12",
+      "todo": [],
+      "id": 1
+    },
+    {
+      "name": "ad",
+      "email": "a@gmail.com",
+      "password": "123",
+      "todo": [],
+      "id": 2
+    }
+  ]
+}
